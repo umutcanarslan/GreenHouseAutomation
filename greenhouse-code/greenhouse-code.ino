@@ -20,9 +20,7 @@ int waterLevelSensor  = A4;
 int fanPin            = A5;
 
 enum Warning {
-  temp,         // Sicaklik uyarisi
   gas,          // Gaz uyarisi
-  waterLevel,   // Su seviyesi uyarisi
 };
 
 enum Mode {
@@ -181,6 +179,7 @@ void displayCurrentMode(char key) {
       break;
   }
   checkWaterPomping();
+  gasWarnings();
 }
 
 void welcomeMessages() {
@@ -359,6 +358,15 @@ void printLCD(String row1, String row2) {
   Serial.println(row2);
 }
 
-void runWarnings(Warning warning) {
-  // NO WARNING FOR NOW
+void gasWarnings(Warning warning) {
+  int gazValue = analogRead(gasSensor);
+
+  if (gazValue > 390) {
+    digitalWrite(buzzerPin, HIGH);
+    delay(500);
+    digitalWrite(buzzerPin, LOW);
+    delay(500);
+  } else {
+    digitalWrite(buzzerPin, LOW);
+  }
 }
