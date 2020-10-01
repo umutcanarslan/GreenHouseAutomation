@@ -24,8 +24,8 @@ Serada meydana gelebilecek bir aksaklıktan ötürü sulama veya ışıklandırm
 <p align="center">
 <img alt="Git" src="./images/pins.png" height="500" width="290">
 </p>
-<hr>
 Aydınlatma sisteminde 10 adet RGB LED paralel olarak kullanılmıştır.
+<hr>
 
 # Circuit
 <hr>
