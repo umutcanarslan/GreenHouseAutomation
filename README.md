@@ -38,6 +38,6 @@ Aydınlatma sisteminde 10 adet RGB LED paralel olarak kullanılmıştır.
 <hr>
 <p align="center">
 <img alt="Git" src="./images/passwordscreen.png" height="450" width="300">
-<img alt="Git" src="./images/tomatomode.png" height="530" width="1000">
+  <img alt="Git" src="./images/tomatomode.png" height="300" width="550">
 </p>
 <hr>
