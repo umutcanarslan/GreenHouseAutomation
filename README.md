@@ -1,9 +1,9 @@
-# Greenhouse Automation with Arduino (Akıllı Sera Otomasyonu)
+# Greenhouse Automation with Arduino
 Serada meydana gelebilecek bir aksaklıktan ötürü sulama veya ışıklandırma yapılamadığından dolayı bu tür otomasyonlar sayesinde bu sisteme gömülü bitkilere bağlı bilgiler doğrultusunda sistem optimum şekilde çalışmakta ve bitkimiz sıkıntısız şekilde büyümektedir. Sistemde yer alan sulama sistemi, suyun çekildiği su deposundan RGB Led sayesinde bilgi alabilir ve su deposu durumunu görebilir.Bu verimliliğin yanında insan gücünü azaltarak kulanıcıya minimum harcama ile sera yetiştiriciliği yaptırılmaktadır.
 
 <hr>
 <p align="center">
-<img alt="Git" src="./images/arduino.png" height="204" width="300">
+<img alt="Git" src="./images/arduino.png" height="130" width="200">
 </p>
 <hr>
 
@@ -19,10 +19,11 @@ Serada meydana gelebilecek bir aksaklıktan ötürü sulama veya ışıklandırm
 </p>
 <hr>
 
+
 # Pins
 <hr>
 <p align="center">
-<img alt="Git" src="./images/pins.png" height="500" width="200">
+<img alt="Git" src="./images/pins.png" height="500" width="290">
 </p>
 <hr>
 
