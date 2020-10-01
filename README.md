@@ -31,6 +31,6 @@ Serada meydana gelebilecek bir aksaklıktan ötürü sulama veya ışıklandırm
 
 <hr>
 <p align="center">
-<img alt="Git" src="./images/circuit.png" height="650" width="1200">
+<img alt="Git" src="./images/circuitdraw.png" height="650" width="1200">
 </p>
 <hr>
