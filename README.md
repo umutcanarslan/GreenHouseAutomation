@@ -32,9 +32,11 @@ Serada meydana gelebilecek bir aksaklıktan ötürü sulama veya ışıklandırm
 # GreenHouse
 <p align="center">
 <img alt="Git" src="./images/passwordscreen.png" height="450" width="300">
-<center> Şifre giriş ekranı.</center>
+<center> Şifre giriş ekranı.
+</center>
 <p align="center">
 <img alt="Git" src="./images/tomatomode.png" height="300" width="550">
-<center>Tomato mode at night</center>
+<center>Tomato mode at night.
+</center>
 </p>
 <hr>
